@@ -1,1 +1,1 @@
-Eat my toes
+gcd=(x,y)
