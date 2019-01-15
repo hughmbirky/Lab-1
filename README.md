@@ -1,2 +1,2 @@
 # Lab-1
-We gon die
+Here we go babeeeeeeeeeey
