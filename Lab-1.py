@@ -11,7 +11,7 @@ def gcf(x,y):
           print(y)
       else:
           return gcf(y, x % y)
-gcf(580,14)
+gcf(49,7)
 
 
 #pt: 2
@@ -21,7 +21,7 @@ def checkeven(x):
         print("True")
     else:
         print("False")
-checkeven(6)
+checkeven(7890345790843798798)
 
 
 # pt: 3
@@ -34,6 +34,10 @@ def authenticate():
         s = str(answer)
         if s == "Pass Word":
             print("Login Successful")
+        else:
+            print("Login Failed")
+    else:
+        print("Login Failed")
 
 authenticate()
 
